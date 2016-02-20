@@ -1,0 +1,1653 @@
+leonardo dicaprio	Leonardo DiCaprio	3
+cher	Cher	4
+robert downey jr.	Robert Downey, Jr.	3
+aaron taylor-johnson		0
+adam sandler		0
+robert pattinson	Robert Preston	0
+natalie portman	Natalie Portman	4
+mia wasikowska		0
+ben affleck	Casey Affleck	0
+jesse eisenberg	Jesse Eisenberg	3
+mandy moore		0
+leonardo dicaprio	Leonardo DiCaprio	3
+michael cera	Michael Keaton	0
+emma stone	Emma Stone	1
+steve carell	Steve Carell	3
+john cusack	Joan Cusack	1
+jeff bridges	Jeff Bridges	4
+logan lerman		0
+patrick wilson		0
+daniel radcliffe		0
+james franco	James Franco	3
+jay baruchel		0
+denzel washington	Denzel Washington	4
+bruce willis		0
+scoot mcnairy		0
+jake gyllenhaal	Maggie Gyllenhaal	0
+noah ringer		0
+paul bettany		0
+tom hanks	Tom Hanks	4
+jake gyllenhaal	Maggie Gyllenhaal	0
+colin firth	Colin Firth	4
+katherine heigl		0
+keira knightley	Keira Knightley	3
+zac efron		0
+miley cyrus		0
+ryan gosling	Ryan Gosling	3
+will ferrell		0
+jay baruchel		0
+channing tatum		0
+sam worthington		0
+sylvester stallone	Sylvester Stallone	3
+jeff bridges	Jeff Bridges	4
+ryan gosling	Ryan Gosling	3
+mark wahlberg	Mark Wahlberg	1
+chris brown	Chris Sarandon	0
+russell crowe	Russell Crowe	4
+liam neeson	Liam Neeson	3
+julia roberts	Cliff Robertson	0
+adrien brody	Adrien Brody	4
+sarah jessica parker		0
+kristen stewart		0
+sarah butler		0
+ben barnes		0
+dwayne johnson	Ben Johnson	0
+madeline carroll		0
+angelina jolie	Angelina Jolie	3
+russell crowe	Russell Crowe	4
+martin sheen		0
+jackie chan	Jackie Gleason	1
+kodi smit-mcphee		0
+will ferrell		0
+lubna azabal		0
+jennifer aniston	Jennifer Jones	0
+jackie earle haley	Jackie Earle Haley	1
+elisabeth shue	Elisabeth Shue	3
+julia roberts	Cliff Robertson	0
+robert downey jr.	Robert Downey, Jr.	3
+chris messina		0
+kristen stewart		0
+tobin bell		0
+katherine heigl		0
+amy adams	Amy Adams	3
+keira knightley	Keira Knightley	3
+danny trejo		0
+johnny depp	Johnny Depp	3
+rainn wilson		0
+tyler labine		0
+jim sturgess		0
+keir gilchrist		0
+kristen bell		0
+halle berry	Halle Berry	4
+nicolas cage	Nicolas Cage	4
+tom cruise	Tom Cruise	3
+jennifer lawrence	Jennifer Lawrence	4
+joaquin phoenix	Joaquin Phoenix	3
+sharni vinson		0
+milla jovovich		0
+eric balfour		0
+radha mitchell		0
+reese witherspoon	Reese Witherspoon	4
+steve carell	Steve Carell	3
+jennifer lopez	Jennifer Lawrence	0
+zachary gordon		0
+denzel washington	Denzel Washington	4
+amanda seyfried		0
+idris elba		0
+annette bening	Annette Bening	3
+steve carell	Steve Carell	3
+jonah hill	Jonah Hill	1
+jim sturgess		0
+ryan reynolds	Burt Reynolds	0
+bruce willis		0
+michael fassbender	Michael Fassbender	1
+byung-hun lee		0
+john travolta	John Travolta	3
+nicole kidman	Nicole Kidman	4
+josh brolin	Josh Brolin	1
+craig roberts	Cliff Robertson	0
+kristen bell		0
+benicio del toro	Benicio del Toro	2
+chris rock		0
+clive owen	Clive Owen	1
+jennifer aniston	Jennifer Jones	0
+shia labeouf		0
+shawn ashmore		0
+javier bardem	Javier Bardem	3
+rachel weisz	Rachel Weisz	2
+ewan mcgregor		0
+robin wright		0
+mike myers		0
+ewan mcgregor		0
+eddie redmayne	Eddie Redmayne	4
+will adamsdale		0
+james frecheville		0
+stephen spinella	Stephen Rea	0
+connor paolo		0
+jude law	Jude Law	3
+matt damon	Matt Damon	3
+steve coogan		0
+joseph gordon-levitt		0
+rachel mcadams		0
+bridgit mendler		0
+mel gibson		0
+julianne moore	Julianne Moore	4
+jenn proske		0
+ben stiller		0
+sally hawkins	Sally Hawkins	1
+katie holmes		0
+dwayne johnson	Ben Johnson	0
+matt damon	Matt Damon	3
+garrett hedlund		0
+otto jespersen		0
+caitlin stasey		0
+shah rukh khan		0
+george clooney	George Clooney	3
+will forte	Willem Dafoe	0
+ben affleck	Casey Affleck	0
+helen mirren	Helen Mirren	4
+helen mirren	Helen Mirren	4
+anthony hopkins	Anthony Hopkins	4
+naomi watts	Naomi Watts	3
+drew barrymore	Lionel Barrymore	0
+kristin scott thomas	Kristin Scott Thomas	3
+rachel bilson	Rachel Weisz	0
+casey affleck	Casey Affleck	1
+joel kinnaman		0
+patrick fabian		0
+katie featherston		0
+k??ji yakusho		0
+josh radnor		0
+katie holmes		0
+emma thompson	Emma Thompson	4
+stephen dorff	Stephen Rea	0
+hilary swank	Hilary Swank	4
+chace crawford	Joan Crawford	0
+gemma arterton		0
+colin farrell		0
+joseph gordon-levitt		0
+hayden christensen		0
+edward norton	Edward Norton	3
+jackie chan	Jackie Gleason	0
+janet jackson		0
+donnie yen		0
+xavier dolan		0
+ben stiller		0
+joey king		0
+diane lane	Diane Keaton	0
+jack black	Jack Palance	0
+james rolleston	James Gleason	1
+dan aykroyd	Dan Aykroyd	1
+paul giamatti	Paul Giamatti	1
+dong-gun jang		0
+bill nighy		0
+juno temple		0
+lena dunham		0
+christian cooke	Christian Bale	0
+james gandolfini		0
+jim broadbent	Jim Broadbent	0
+bill bailey		0
+will ferrell		0
+keanu reeves		0
+sophie rois		0
+mikael persbrandt		0
+claire sloma		0
+max thieriot		0
+brendan fraser	Brenda Fricker	0
+brendan fraser	Brenda Fricker	0
+adrien brody	Adrien Brody	4
+owen wilson		0
+tony jaa		0
+nichola burley		0
+emma roberts	Julia Roberts	0
+david hyde pierce		0
+thomas dekker		0
+romain duris		0
+john c. reilly	John C. Reilly	1
+fran??ois cluzet		0
+matt bush		0
+kevin spacey	Kevin Spacey	4
+hayden panettiere		0
+america ferrera		0
+matt bennett		0
+queen latifah	Queen Latifah	1
+john cena		0
+jorma tommila		0
+wagner moura		0
+shad moss		0
+jennifer connelly	Jennifer Jones	0
+brandon routh		0
+bette midler	Bette Midler	3
+eva bourne		0
+hrithik roshan		0
+janet jackson		0
+devon jordan		0
+bel??n rueda		0
+sean bean	Sean Penn	4
+james franco	James Franco	3
+ryan kwanten		0
+donnie yen		0
+helen mirren	Helen Mirren	4
+michael angarano	Michael Shannon	1
+tanner maguire		0
+ken'ichi matsuyama		0
+juliette binoche	Juliette Binoche	3
+andy serkis		0
+melanie griffith	Melanie Griffith	3
+rhys ifans		0
+danielle harris		0
+jonathan scarfe		0
+michael sheen	Michael Keaton	0
+do-yeon jeon		0
+jenna fischer		0
+michelle williams	Michelle Williams	3
+lambert wilson		0
+colin firth	Colin Firth	4
+kevin sorbo		0
+benjamin helstad		0
+fabrice luchini		0
+philip seymour hoffman	Philip Seymour Hoffman	4
+carlos areces		0
+letoya luckett		0
+thanapat saisaymar		0
+sam riley		0
+ariane labed	Diane Lane	0
+catherine keener	Catherine Deneuve	0
+naomie harris	Ed Harris	0
+jesse eisenberg	Jesse Eisenberg	3
+eric elmosnino		0
+tony ka fai leung		0
+frank hvam		0
+omid djalili		0
+kevin kline	Kevin Kline	2
+jay baruchel		0
+dominique blanc		0
+ulrich thomsen		0
+elle fanning		0
+m??lanie thierry		0
+michael c. hall	Michael Caine	0
+hrithik roshan		0
+eman xor o??a		0
+sibel kekilli		0
+jean-claude donda		0
+dermot mulroney		0
+conor mccarron		0
+tim allen		0
+james corden	James Coburn	0
+christopher thornton		0
+abhishek bachchan		0
+naseeruddin shah		0
+stellan skarsg??rd		0
+gael garc??a bernal		0
+leslie easterbrook		0
+freida pinto		0
+sanna persson		0
+ludivine sagnier		0
+katrina kaif		0
+philip winchester		0
+yun-fat chow		0
+rajinikanth		0
+kim cattrall		0
+adriano luz		0
+stephanie danielson		0
+alexander fehling	Alexander Knox	0
+rajat barmecha		0
+andie macdowell		0
+shiloh fernandez		0
+akshay kumar		0
+michael joiner	Michael Keaton	0
+gilles lellouche		0
+salman khan	Salma Hayek	0
+val kilmer		0
+ricardo dar??n		0
+priyanka chopra		0
+kareena kapoor		0
+alex di dio		0
+aqib khan		0
+katie aselton		0
+jeong-hie yun		0
+eugenio derbez		0
+emraan hashmi		0
+timothy hutton	Timothy Hutton	2
+deepika padukone		0
+giuseppe fuda		0
+joel torre	Joel Grey	0
+lucas grabeel		0
+akshay kumar		0
+tygh runyan		0
+andreas lust	Andrea Leeds	0
+prateik		0
+sanjeev bhaskar		0
+charles baker	Charles Boyer	0
+andie macdowell		0
+jean-marc stehl??		0
+catherine deneuve	Catherine Deneuve	3
+jill hennessy		0
+imran khan		0
+grigoriy dobrygin		0
+mimi branescu		0
+romain duris		0
+george pistereanu		0
+chris messina		0
+michael rooker	Michael Keaton	0
+jeanne tripplehorn		0
+'chiyaan' vikram		0
+akshay kumar		0
+sara forestier		0
+tom kenny		0
+charlotte gainsbourg		0
+anthony mackie	Anthony Franciosa	0
+cris lankenau		0
+agnes kittelsen		0
+ryan o'nan	Ryan O'Neal	0
+predrag manojlovic		0
+farhan akhtar		0
+kareena kapoor		0
+sky ferreira		0
+joni barth		0
+jason thompson	Emma Thompson	0
+mindy cohn		0
+shinobu terajima		0
+pilar l??pez de ayala		0
+j. larose		0
+sonam kapoor		0
+taryn manning		0
+bobby naderi	Bobby Darin	0
+sushmita sen		0
+jimmy shergill		0
+cordell moore		0
+omkar das manikpuri		0
+salman khan	Salma Hayek	0
+andrew dickler		0
+bob gunton		0
+khomotso manyaka		0
+timothy spall		0
+peter scanavino	Peter Ustinov	0
+noah silver		0
+elika portnoy		0
+youssouf djaoro		0
+viktor nemets		0
+anne coesens		0
+eriya ndayambaje		0
+john turturro	John Hurt	0
+shahid kapoor		0
+fernando moreno	Fernanda Montenegro	0
+mithun chakraborty		0
+isabelle huppert		0
+marie f??ret		0
+robert loggia	Robert Donat	0
+josh hopkins		0
+tanna frederick	Anna Kendrick	0
+patsha bay		0
+alexandra meierhans		0
+bruno odar		0
+??lodie bouchez		0
+shark firestone	Sharon Stone	0
+glenn berggoetz		0
+florence loiret caille		0
+kangana ranaut		0
+j??rgen ri??mann		0
+atsuko okatsuka		0
+dustin nguyen		0
+harisree asokan		0
+mike foy		0
+vivek oberoi		0
+dan illian		0
+michael ciriaco	Michael Caine	0
+jayson argento		0
+dj perry		0
+melinda y. cohen		0
+giovanna leah		0
+judi dench	Judi Dench	3
+chris evans		0
+daniel radcliffe		0
+chris hemsworth		0
+daniel craig		0
+james mcavoy	James Cagney	0
+kristen wiig		0
+tom hardy		0
+adam sandler		0
+emily browning		0
+steve carell	Steve Carell	3
+henry cavill		0
+ryan reynolds	Burt Reynolds	0
+ryan gosling	Ryan Gosling	3
+emma stone	Emma Stone	1
+george clooney	George Clooney	3
+jason bateman		0
+justin timberlake		0
+elle fanning		0
+fran??ois cluzet		0
+johnny depp	Johnny Depp	3
+alex pettyfer		0
+bradley cooper	Gary Cooper	0
+kristen stewart		0
+vin diesel		0
+jake gyllenhaal	Maggie Gyllenhaal	0
+owen wilson		0
+matt damon	Matt Damon	3
+gary oldman	Gary Oldman	3
+mila kunis		0
+willem dafoe	Willem Dafoe	1
+anne hathaway	Anne Hathaway	3
+asa butterfield		0
+logan lerman		0
+shia labeouf		0
+james franco	James Franco	3
+simon pegg		0
+michael fassbender	Michael Fassbender	1
+daniel craig		0
+hugh jackman	Hugh Jackman	3
+tom cruise	Tom Cruise	3
+brad pitt	Brad Pitt	3
+kenny wormald		0
+owen wilson		0
+liam neeson	Liam Neeson	3
+alex pettyfer		0
+matt damon	Matt Damon	3
+paul giamatti	Paul Giamatti	1
+natalie portman	Natalie Portman	4
+mia wasikowska		0
+matthew mcconaughey	Matthew McConaughey	4
+kirsten dunst		0
+jesse eisenberg	Jesse Eisenberg	3
+neve campbell	Steve Carell	0
+brad pitt	Brad Pitt	3
+annasophia robb		0
+aaron eckhart		0
+robert downey jr.	Robert Downey, Jr.	3
+liam neeson	Liam Neeson	3
+michelle williams	Michelle Williams	3
+jason momoa		0
+jeremy irvine	Jeremy Irons	0
+felicity jones	Felicity Jones	3
+iko uwais		0
+jean dujardin	Jean Dujardin	4
+hank azaria		0
+joseph gordon-levitt		0
+sharni vinson		0
+amanda seyfried		0
+bradley cooper	Gary Cooper	4
+matt damon	Matt Damon	3
+johnny depp	Johnny Depp	3
+zoe saldana		0
+owen wilson		0
+leonardo dicaprio	Leonardo DiCaprio	3
+mary elizabeth winstead	Mary Elizabeth Mastrantonio	1
+saoirse ronan	Saoirse Ronan	1
+james buckley	James Cagney	0
+tilda swinton	Imelda Staunton	0
+taylor lautner		0
+cameron diaz		0
+jamie bell		0
+daniel craig		0
+johnny depp	Johnny Depp	3
+brit marling		0
+zachary quinto		0
+emily browning		0
+kevin james		0
+robert pattinson	Robert Preston	0
+selena gomez		0
+antonio banderas		0
+michael fassbender	Michael Fassbender	1
+amy adams	Amy Adams	3
+seann william scott		0
+thomas horn		0
+anton yelchin		0
+matthew mcconaughey	Matthew McConaughey	4
+nicolas cage	Nicolas Cage	4
+anna faris		0
+aksel hennie		0
+nicolas cage	Nicolas Cage	4
+freddie highmore		0
+topher grace		0
+adrien brody	Adrien Brody	4
+jessica alba	Jessica Lange	0
+jason statham		0
+gina carano		0
+sarah jessica parker		0
+antonio banderas		0
+jason bateman		0
+minka kelly	Nancy Kelly	0
+jack black	Jack Palance	0
+jason statham		0
+jack black	Jack Palance	0
+danny mcbride		0
+rhys ifans		0
+jason statham		0
+nicolas cage	Nicolas Cage	4
+channing tatum		0
+seth rogen		0
+morgan freeman	Morgan Freeman	3
+nicholas d'agosto		0
+adam sandler		0
+gerard butler		0
+ginnifer goodwin		0
+rowan atkinson		0
+james marsden	James Garner	0
+ashlynn yennie		0
+aimee teegarden		0
+paul bettany		0
+felicity jones	Felicity Jones	3
+sean penn	Sean Penn	4
+eddie murphy	Eddie Murphy	1
+channing tatum		0
+brendan gleeson		0
+glenn close	Glenn Close	3
+michael shannon	Michael Keaton	0
+joel murray	Bill Murray	0
+paul rudd		0
+colin o'donoghue		0
+ewan mcgregor		0
+abbie cornish		0
+vince vaughn		0
+charlize theron	Charlize Theron	4
+shawn ashmore		0
+elizabeth olsen	Elizabeth Taylor	0
+mel gibson		0
+jonah hill	Jonah Hill	1
+tom hanks	Tom Hanks	4
+jennifer garner	Jennifer Lawrence	0
+owen wilson		0
+christian bale	Christian Bale	3
+jason sudeikis		0
+meryl streep	Meryl Streep	4
+kate hudson	Rock Hudson	0
+paul giamatti	Paul Giamatti	1
+dominic cooper		0
+john boyega		0
+jim cummings	Quinn Cummings	0
+emile hirsch		0
+neil maskell		0
+ewan mcgregor		0
+rachel weisz	Rachel Weisz	2
+peyman moaadi		0
+jesse eisenberg	Jesse Eisenberg	3
+mark duplass		0
+michelle williams	Michelle Williams	3
+tom cullen	Tom Hulce	0
+rhys wakefield		0
+martin lawrence	Martin Landau	0
+nicolas cage	Nicolas Cage	4
+jim carrey		0
+diane kruger		0
+chris evans		0
+maggie gyllenhaal	Maggie Gyllenhaal	1
+russell brand		0
+ralph fiennes	Ralph Fiennes	3
+daniel br??hl		0
+james mcavoy	James Cagney	4
+christopher denham	Christopher Plummer	0
+sara paxton		0
+alex kendrick	Anna Kendrick	0
+kaya scodelario		0
+malin akerman		0
+woody harrelson	Woody Harrelson	3
+warren christie		0
+lauren german		0
+anna paquin	Anna Paquin	2
+russell brand		0
+ray stevenson		0
+nicolas cage	Nicolas Cage	4
+sarah bolger		0
+kal penn	Sean Penn	0
+paula patton		0
+clive owen	Clive Owen	1
+sam jaeger	Sam Jaffe	0
+justin long		0
+charlie hunnam		0
+patrick huard		0
+jennifer westfeldt		0
+rachel weisz	Rachel Weisz	2
+elijah wood		0
+peter mullan		0
+mohamed fellag		0
+ed helms		0
+taylor schilling		0
+matthias schoenaerts		0
+sarah jessica parker		0
+elizabeth olsen	Elizabeth Taylor	0
+krysten ritter		0
+jason segel		0
+kai lennox		0
+jean-paul rouve		0
+camilla belle		0
+rutger hauer		0
+zachary gordon		0
+orlando bloom		0
+sam worthington		0
+chloe csengery		0
+rachel hendrix		0
+lucas pittaway		0
+jane fonda	Jane Fonda	4
+channing tatum		0
+leighton meester		0
+zana marjanovic		0
+mandy moore		0
+mia wasikowska		0
+juliette binoche	Juliette Binoche	3
+nick swardson		0
+shaoqun yu		0
+sara paxton		0
+kelly macdonald		0
+patrick dempsey		0
+tyler perry		0
+vera farmiga	Vera Farmiga	1
+dong-gun jang		0
+shah rukh khan		0
+ben van den heuvel		0
+seth green		0
+sarah bolger		0
+lola cr??ton		0
+juno temple		0
+rupert friend		0
+thomas jane		0
+lou taylor pucci		0
+scott speedman		0
+donnie yen		0
+tobey maguire		0
+nadezhda markina		0
+hayden panettiere		0
+rick okon		0
+greta gerwig		0
+jet li	Janet Leigh	0
+peter facinelli	Peter Falk	0
+jet li	Janet Leigh	0
+ben barnes		0
+demian bichir	Demi¨¢n Bichir	3
+sam shepard	Sam Shepard	1
+bingbing li		0
+charlie cox	Charles Coburn	0
+ethan hawke	Ethan Hawke	1
+rachael leigh cook		0
+louise grinberg	Luise Rainer	0
+james mcavoy	James Cagney	0
+thomas brodie-sangster		0
+katrina kaif		0
+jackie chan	Jackie Gleason	0
+mathieu amalric		0
+ranbir kapoor		0
+jordana beatty		0
+freida pinto		0
+zo?? h??ran		0
+jordan gelber		0
+daniel auteuil		0
+robert wieckiewicz		0
+kelen coleman		0
+muhammet uzuner		0
+luke treadaway		0
+helene bergsholm		0
+thomas dekker		0
+willem dafoe	Willem Dafoe	1
+imran khan		0
+karin viard		0
+brian presley		0
+akshay kumar		0
+gael garc??a bernal		0
+greg kinnear	Greg Kinnear	1
+arjun rampal		0
+mehcad brooks		0
+thomas doret	Thomas Gomez	0
+adam deacon		0
+cuba gooding jr.	Cuba Gooding Jr.	2
+john c. reilly	John C. Reilly	1
+vincent cassel		0
+stavros psyllakis		0
+sara rue		0
+alexis d??az de villegas		0
+ron eldard		0
+j??nos derzsi		0
+rishi kapoor		0
+greg kinnear	Greg Kinnear	1
+michael c. hall	Michael Caine	0
+evan glodell	Joan Blondell	1
+kathleen turner	Kathleen Turner	3
+milla jovovich		0
+anders danielsen lie		0
+humaima malik		0
+albert dupontel		0
+blayne weaver		0
+aimee garcia		0
+shelley calene-black		0
+charlotte rampling	Charlie Chaplin	0
+minnie driver	Minnie Driver	1
+edward burns	Edward Norton	0
+val??rie donzelli		0
+no??mie lvovsky		0
+eric stoltz		0
+tomer sisley		0
+carlen altman		0
+ajay devgn		0
+adepero oduye		0
+catherine deneuve	Catherine Deneuve	3
+laetitia casta		0
+andr?? wilms		0
+priyanka chopra		0
+bruce davison	Bruce Davison	1
+val lauren		0
+miranda july		0
+javier drolas		0
+salman khan	Salma Hayek	0
+guy bedos		0
+sarah kazemy		0
+sean patrick flanery		0
+jason trost	Jason Robards	0
+miguel rodarte		0
+julie benz		0
+johannes zeiler		0
+bill skarsg??rd		0
+esai morales		0
+claude baz moussawbaa		0
+karin viard		0
+abhishek bachchan		0
+thomas schubert		0
+anna margaret hollyman		0
+famke janssen		0
+k??ji yakusho		0
+linda cardellini		0
+rani mukerji		0
+sophie alexander-katz		0
+rachel nichols	Jack Nicholson	0
+imran khan		0
+jean barney		0
+yle vianello		0
+julien beramis		0
+jason patric		0
+sanjay dutt		0
+mathieu amalric		0
+matt o'leary		0
+josh lucas		0
+k??ki maeda		0
+michel piccoli		0
+aarav khanna		0
+sebastian banes		0
+ajay devgn		0
+andr?? dussollier		0
+rutger hauer		0
+shlomo bar-aba		0
+ryan o'nan	Ryan O'Neal	0
+tahar rahim		0
+marissa joy davis		0
+josiah patkotak		0
+leah pipes		0
+niels arestrup		0
+francisca gavil??n		0
+akshay kumar		0
+meredith laine		0
+james shalkoski jr.		0
+glenn berggoetz		0
+amitabh bachchan		0
+agathe bonitzer		0
+diego noguera		0
+joaqu??n cosio		0
+gianni di gregorio		0
+tristan halilaj		0
+shahid kapoor		0
+natalia oreiro		0
+nicolas maury	Nicolas Cage	0
+isabelle huppert		0
+rahul rai		0
+abhishek bachchan		0
+joon-sang yoo		0
+yiftach klein		0
+katie o'grady		0
+will yun lee		0
+denis podalyd??s		0
+nopachai chaiyanam		0
+judy findlay	Judy Holliday	0
+tammy blanchard		0
+lisa f??vero		0
+michael fuith	Michael Dunn	0
+paul campbell		0
+vladimir epifantsev		0
+dominique abel		0
+nafisa ali		0
+carmen salinas		0
+philippe quint		0
+ngoc diep		0
+paul borghese		0
+mary rose maher		0
+anna kendrick	Anna Kendrick	1
+christian bale	Christian Bale	3
+robert downey jr.	Robert Downey, Jr.	3
+jennifer lawrence	Jennifer Lawrence	4
+jonah hill	Jonah Hill	1
+taylor kitsch		0
+jamie foxx	Jamie Foxx	4
+paul rudd		0
+noomi rapace		0
+martin freeman	Morgan Freeman	0
+kristen stewart		0
+channing tatum		0
+bradley cooper	Gary Cooper	0
+logan lerman		0
+hugh jackman	Hugh Jackman	3
+adam sandler		0
+jessica chastain	Jessica Tandy	0
+vanessa hudgens	Vanessa Redgrave	0
+daniel craig		0
+jared gilman		0
+tom hanks	Tom Hanks	4
+ryan gosling	Ryan Gosling	3
+ben affleck	Casey Affleck	0
+joseph gordon-levitt		0
+alexander skarsg??rd		0
+andrew garfield	John Garfield	0
+keira knightley	Keira Knightley	3
+mark wahlberg	Mark Wahlberg	1
+kristen stewart		0
+john c. reilly	John C. Reilly	1
+greg kinnear	Greg Kinnear	1
+tom cruise	Tom Cruise	3
+thomas mann		0
+tom hardy		0
+jake gyllenhaal	Maggie Gyllenhaal	0
+dane dehaan		0
+kristen connolly		0
+dylan o'brien	Edmond O'Brien	0
+will smith	Will Smith	3
+ethan hawke	Ethan Hawke	0
+kathryn mccormick	Patty McCormack	0
+benjamin walker		0
+suraj sharma		0
+denzel washington	Denzel Washington	4
+sam worthington		0
+matthew mcconaughey	Matthew McConaughey	4
+philip seymour hoffman	Philip Seymour Hoffman	4
+kelly macdonald		0
+zac efron		0
+daniel radcliffe		0
+daniel day-lewis	Daniel Day-Lewis	4
+rachel mcadams		0
+reese witherspoon	Reese Witherspoon	4
+aaron taylor-johnson		0
+colin farrell		0
+karl urban		0
+johnny depp	Johnny Depp	3
+naomi watts	Naomi Watts	3
+denzel washington	Denzel Washington	4
+adam sandler		0
+mads mikkelsen		0
+jeremy renner	Jeremy Irons	4
+guy pearce		0
+ingrid bols?? berdal		0
+sylvester stallone	Sylvester Stallone	3
+jason bateman		0
+colin farrell		0
+jason biggs		0
+hugh jackman	Hugh Jackman	3
+michael shannon	Michael Keaton	0
+liam neeson	Liam Neeson	3
+lily collins	Pauline Collins	0
+kate beckinsale	Kate Winslet	0
+sacha baron cohen		0
+julianne hough	Julianne Moore	0
+mark wahlberg	Mark Wahlberg	1
+cameron diaz		0
+chris hemsworth		0
+brad pitt	Brad Pitt	3
+marion cotillard	Marion Cotillard	4
+jonny weston		0
+alicia vikander		0
+jason segel		0
+sam riley		0
+chris brown	Chris Sarandon	0
+robert redford	Robert Redford	3
+milla jovovich		0
+matthew mcconaughey	Matthew McConaughey	4
+quvenzhan?? wallis	Quvenzhan¨¦ Wallis	3
+gerard butler		0
+steve carell	Steve Carell	3
+jennifer lawrence	Jennifer Lawrence	4
+zac efron		0
+bradley cooper	Gary Cooper	0
+ashley hinshaw		0
+aubrey plaza		0
+saoirse ronan	Saoirse Ronan	1
+robert pattinson	Robert Preston	0
+jennifer aniston	Jennifer Jones	0
+josh hutcherson		0
+ray romano		0
+sylvester stallone	Sylvester Stallone	3
+jason statham		0
+ben stiller		0
+woody allen	Woody Allen	3
+eric bana		0
+sam worthington		0
+alex veadov		0
+anthony hopkins	Anthony Hopkins	4
+john hawkes	Ethan Hawke	0
+russell crowe	Russell Crowe	4
+toby irvine		0
+ben stiller		0
+paul dano		0
+kevin james		0
+al pacino	Al Pacino	4
+john cusack	Joan Cusack	1
+greta gerwig		0
+calvin reeder		0
+clint eastwood	Clint Eastwood	3
+mark ruffalo	Mark Ruffalo	1
+natasha calis		0
+joseph gordon-levitt		0
+p??l sverre hagen		0
+tyler perry		0
+jim sturgess		0
+adelaide clemens		0
+josh radnor		0
+ben affleck	Casey Affleck	0
+kirsten dunst		0
+sean hayes	Helen Hayes	0
+henry cavill		0
+alexis denisof		0
+jennifer garner	Jennifer Lawrence	4
+nicolas cage	Nicolas Cage	4
+winona ryder	Winona Ryder	3
+kodi smit-mcphee		0
+will ferrell		0
+lizzy caplan		0
+amanda seyfried		0
+julianne moore	Julianne Moore	4
+elijah wood		0
+cuba gooding jr.	Cuba Gooding Jr.	2
+dax shepard	Sam Shepard	1
+danielle panabaker		0
+kristen wiig		0
+peter sarsgaard		0
+chris pine	Chris Cooper	0
+rachel mcadams		0
+eddie murphy	Eddie Murphy	1
+matt damon	Matt Damon	3
+maggie smith	Maggie Smith	4
+katherine heigl		0
+barbra streisand	Barbra Streisand[C]	4
+luke evans		0
+richard gere	Richard Dreyfuss	0
+victoria justice		0
+chris colfer	Chris Cooper	0
+jesse mccartney	Melissa McCarthy	0
+sheri moon zombie		0
+morgan freeman	Morgan Freeman	3
+dennis quaid		0
+stephen dunham	Stephen Rea	0
+pen??lope cruz	Pen¨¦lope Cruz	3
+griffin dunne		0
+chase williamson	Michelle Williams	0
+mary elizabeth winstead	Mary Elizabeth Mastrantonio	0
+chris o'dowd		0
+hugh grant		0
+rashida jones		0
+rebecca hall		0
+ann dowd		0
+zachary gordon		0
+will ferrell		0
+josh stewart	James Stewart	0
+eli roth	Tim Roth	0
+alicia silverstone		0
+juno temple		0
+riz ahmed		0
+florian lukas		0
+clive owen	Clive Owen	1
+billy crystal		0
+ray winstone		0
+tyler perry		0
+jean-louis trintignant		0
+meryl streep	Meryl Streep	4
+pierce brosnan		0
+ashley greene		0
+willa holland	William Holden	0
+ari graynor		0
+robert pattinson	Robert Preston	0
+matthew fox		0
+eva mendes		0
+veerle baetens		0
+jean-claude van damme		0
+joel edgerton		0
+will rogers		0
+leticia dolera		0
+nicole laliberte		0
+alice eve		0
+fernanda andrade		0
+john krasinski		0
+jenna fischer		0
+melanie lynskey		0
+drew barrymore	Lionel Barrymore	0
+paul dano		0
+paul schneider		0
+elle fanning		0
+andy garcia	Andy Garc¨ªa	1
+queen latifah	Queen Latifah	1
+john magaro	John Marley	0
+aamir khan		0
+lynn collins	Pauline Collins	0
+riley keough		0
+l??a seydoux		0
+luke wilson		0
+greta gerwig		0
+dree hemingway	Mariel Hemingway	0
+tim heidecker		0
+alice lowe		0
+jordin sparks		0
+james cromwell	James Cromwell	1
+bill murray	Bill Murray	3
+justin long		0
+philip seymour hoffman	Philip Seymour Hoffman	4
+samantha mathis	Samantha Morton	0
+rachel boston		0
+samuel l. jackson	Samuel L. Jackson	1
+forest whitaker	Forest Whitaker	4
+marin ireland	Martin Landau	0
+viola davis	Viola Davis	3
+felicity jones	Felicity Jones	3
+tom schilling		0
+thomas kretschmann		0
+laura caro		0
+romain duris		0
+saskia rosendahl		0
+jacob zachar		0
+mike birbiglia		0
+tippi hedren		0
+fabrice luchini		0
+tyler perry		0
+mark webber	Mark Wahlberg	1
+ed stoppard		0
+jesse eisenberg	Jesse Eisenberg	3
+erica linz		0
+pilou asb??k		0
+jos??phine de la baume		0
+emayatzy corinealdi		0
+nils d'aulaire		0
+alan cumming		0
+terence stamp	Terence Stamp	1
+toni collette	Toni Collette	1
+ranbir kapoor		0
+jean reno	Jean Hagen	0
+guoli zhang	Goldie Hawn	0
+thure lindhardt		0
+jack plotnick	Jack Palance	0
+michel bouquet		0
+paul brannigan		0
+andy garcia	Andy Garc¨ªa	1
+steve austin		0
+jean dujardin	Jean Dujardin	4
+maribel verd??		0
+julie delpy		0
+paul dano		0
+jennifer love hewitt		0
+bailee madison		0
+deepika padukone		0
+stephen dorff	Stephen Rea	0
+rajat kapoor		0
+christian slater	Christian Bale	0
+christian slater	Christian Bale	0
+malcolm mcdowell		0
+waad mohammed		0
+jason spevack		0
+asrani		0
+shah rukh khan		0
+siam yu		0
+tim heidecker		0
+brandon routh		0
+juliane k??hler		0
+sridevi		0
+martina gedeck		0
+jaime pressly		0
+gael garc??a bernal		0
+alexander siddig		0
+norman reedus		0
+condola rashad		0
+thure lindhardt		0
+gina rodriguez		0
+krysten ritter		0
+diane keaton	Diane Keaton	4
+gad elmaleh		0
+hadas yaron		0
+randy wayne		0
+kim kold		0
+sidharth malhotra		0
+ayushmann khurrana		0
+vincent lindon		0
+maciej stuhr		0
+louis koo		0
+patton oswalt		0
+stephen dorff	Stephen Rea	0
+common		0
+barbara sukowa		0
+khaled nabawy		0
+brady corbet		0
+marshall allman	Marsha Mason	0
+nick offerman		0
+cl??ment m??tayer		0
+le geng	Leo Genn	0
+dariel arrechaga		0
+oliver ackland		0
+cosmina stratan		0
+jean rochefort		0
+ricardo dar??n		0
+marcia gay harden	Marcia Gay Harden	2
+james floyd	James Woods	0
+ian veteto		0
+parker posey		0
+mark kelly		0
+omar sy		0
+alicia rodr??guez		0
+jules brown	Leslie Browne	0
+salman khan	Salma Hayek	0
+adam baldwin	Alec Baldwin	0
+evelyne brochu		0
+irrfan khan		0
+laurence saunders	Laurence Fishburne	0
+michael brodie	Michael Caine	0
+jason biggs		0
+golshifteh farahani		0
+martin papazian		0
+hrithik roshan		0
+byung-hun lee		0
+mary margaret o'hara		0
+kerry bish??		0
+sarah megan thomas		0
+ty hickson		0
+emmanuelle devos	Emmanuelle Riva	0
+catherine frot	Catherine Keener	0
+robert carlyle	Robert Duvall	0
+hark-on fung		0
+rut reygadas		0
+min-soo jo		0
+ohad knoller		0
+blair underwood		0
+devrim evin		0
+arnold reyes		0
+rin takanashi		0
+marshall r. teague		0
+graham chapman		0
+joong-ki song		0
+mira sorvino	Mira Sorvino	2
+lukas haas		0
+margarete tiesel		0
+kareena kapoor		0
+sharman joshi		0
+ali suliman	Liv Ullmann	0
+rachel mwanza	Rachel Weisz	0
+vladimir svirskiy		0
+lindsay smith		0
+akshay kumar		0
+jamie kennedy		0
+akshay kumar		0
+isabelle huppert		0
+piper laurie	Piper Laurie	0
+jon gries	John Garfield	0
+alisa becher		0
+kareena kapoor		0
+charles s. dutton	Charles Laughton	0
+kareena kapoor		0
+ajay devgn		0
+will keenan		0
+salman khan	Salma Hayek	0
+rapha??l personnaz		0
+kunal kapoor		0
+jesper christensen		0
+shahid kapoor		0
+lauren watson	Lucile Watson	0
+aniello arena		0
+ana rita gurgel		0
+john michael higgins		0
+yuddvir bakolia		0
+maria hofst??tter		0
+shanon harper		0
+ajay devgn		0
+riteish deshmukh		0
+jiiva		0
+yuanyuan gao		0
+zheng xu		0
+akshay kumar		0
+joey brown		0
+jonah parker		0
+maxym anciaux		0
+mathieu amalric		0
+aarya		0
+linus roache		0
+abdelhakim rachi		0
+'chiyaan' vikram		0
+mohanlal		0
+aoi yuki		0
+tanna frederick	Anna Kendrick	0
+jason cortlund		0
+asif ali		0
+leonardo dicaprio	Leonardo DiCaprio	3
+kristen bell		0
+jennifer lawrence	Jennifer Lawrence	4
+charlotte gainsbourg		0
+matt damon	Matt Damon	3
+chiwetel ejiofor	Chiwetel Ejiofor	3
+vin diesel		0
+ian mckellen	Ian McKellen	3
+leonardo dicaprio	Leonardo DiCaprio	3
+jason sudeikis		0
+christian bale	Christian Bale	3
+henry cavill		0
+chris evans		0
+chris pine	Chris Cooper	0
+joaquin phoenix	Joaquin Phoenix	3
+adam sandler		0
+hugh jackman	Hugh Jackman	3
+matthew mcconaughey	Matthew McConaughey	4
+mark wahlberg	Mark Wahlberg	1
+domhnall gleeson		0
+aaron taylor-johnson		0
+jesse eisenberg	Jesse Eisenberg	3
+patrick wilson		0
+chris hemsworth		0
+daniel radcliffe		0
+daniel br??hl		0
+lily collins	Pauline Collins	0
+robert downey jr.	Robert Downey, Jr.	3
+idris elba		0
+vince vaughn		0
+liam neeson	Liam Neeson	3
+tom cruise	Tom Cruise	3
+james franco	James Franco	3
+charlotte gainsbourg		0
+miles teller		0
+chlo?? grace moretz		0
+sophie n??lisse		0
+scarlett johansson		0
+tilda swinton	Imelda Staunton	0
+keira knightley	Keira Knightley	3
+brad pitt	Brad Pitt	3
+oscar isaac		0
+ben stiller		0
+l??a seydoux		0
+karen gillan		0
+sandra bullock	Sandra Bullock	4
+joseph gordon-levitt		0
+julianne hough	Julianne Moore	0
+jake gyllenhaal	Maggie Gyllenhaal	0
+logan lerman		0
+steve carell	Steve Carell	3
+harrison ford	Harrison Ford	3
+agata kulesza		0
+daniel radcliffe		0
+saoirse ronan	Saoirse Ronan	1
+emma stone	Emma Stone	1
+nicholas hoult		0
+ethan hawke	Ethan Hawke	1
+steve carell	Steve Carell	3
+sylvester stallone	Sylvester Stallone	3
+james franco	James Franco	3
+tom hardy		0
+michael fassbender	Michael Fassbender	1
+emma thompson	Emma Thompson	4
+tom hanks	Tom Hanks	4
+vin diesel		0
+will ferrell		0
+jeremy renner	Jeremy Irons	0
+mark wahlberg	Mark Wahlberg	1
+gugu mbatha-raw		0
+hugh jackman	Hugh Jackman	3
+sandra bullock	Sandra Bullock	4
+nicolas cage	Nicolas Cage	4
+bruce willis		0
+christian bale	Christian Bale	3
+robert de niro	Robert De Niro	4
+nicolas cage	Nicolas Cage	4
+meryl streep	Meryl Streep	4
+dwayne johnson	Ben Johnson	2
+gerard butler		0
+forest whitaker	Forest Whitaker	4
+jack o'connell	Arthur O'Connell	0
+sean penn	Sean Penn	4
+jason statham		0
+billy crystal		0
+emily baldoni	Emily Watson	0
+jaden smith		0
+dakota fanning		0
+ryan reynolds	Burt Reynolds	0
+kate winslet	Kate Winslet	4
+channing tatum		0
+vanessa hudgens	Vanessa Redgrave	0
+simon pegg		0
+chlo?? grace moretz		0
+jessica chastain	Jessica Tandy	0
+rooney mara	Rooney Mara	3
+nicholas hoult		0
+cate blanchett	Cate Blanchett	4
+johnny depp	Johnny Depp	3
+denzel washington	Denzel Washington	4
+alice englert		0
+keanu reeves		0
+jason statham		0
+naomi watts	Naomi Watts	3
+simon rex		0
+katie chang		0
+christoph waltz	Christoph Waltz	2
+alexandra daddario		0
+bruce dern	Bruce Dern	3
+james mcavoy	James Cagney	0
+amanda seyfried		0
+vince vaughn		0
+jane levy		0
+bradley cooper	Gary Cooper	0
+robert de niro	Robert De Niro	4
+danny trejo		0
+robert de niro	Robert De Niro	4
+aubrey plaza		0
+hailee steinfeld	Hailee Steinfeld	1
+clive owen	Clive Owen	1
+miles teller		0
+benedict cumberbatch	Benedict Cumberbatch	3
+macon blair		0
+elizabeth olsen	Elizabeth Taylor	4
+ashton kutcher		0
+ryan gosling	Ryan Gosling	3
+emma roberts	Julia Roberts	0
+geoffrey rush	Geoffrey Rush	4
+keri russell	Rosalind Russell	3
+mia wasikowska		0
+robert redford. after a collision with a shipping container at sea		0
+patrick wilson		0
+colin firth	Colin Firth	4
+sharlto copley		0
+ethan hawke	Ethan Hawke	1
+jesse eisenberg	Jesse Eisenberg	3
+steve carell	Steve Carell	3
+arnold schwarzenegger		0
+jason bateman		0
+daniel radcliffe		0
+judi dench	Judi Dench	3
+ryan kwanten		0
+jason bateman		0
+shia labeouf		0
+amanda seyfried		0
+robert de niro	Robert De Niro	4
+bruce willis		0
+james mcavoy	James Cagney	0
+hideaki anno		0
+chadwick boseman		0
+jude law	Jude Law	3
+bill hader		0
+jason statham		0
+nick robinson		0
+brie larson		0
+marion cotillard	Marion Cotillard	4
+liam hemsworth		0
+toni servillo		0
+alan rickman	Alan Arkin	0
+jennifer aniston	Jennifer Jones	0
+marine vacth		0
+brit marling		0
+colin farrell		0
+lake bell		0
+kurt russell		0
+ryan reynolds	Burt Reynolds	0
+ben affleck	Casey Affleck	0
+robin wright		0
+olivia wilde		0
+halle berry	Halle Berry	4
+mia wasikowska		0
+robert de niro	Robert De Niro	4
+julia louis-dreyfus		0
+eugenio derbez		0
+michael b. jordan	Michael J. Pollard	0
+johnny knoxville		0
+mark wahlberg	Mark Wahlberg	1
+taylor kitsch		0
+saoirse ronan	Saoirse Ronan	1
+woody harrelson	Woody Harrelson	3
+dwayne johnson	Ben Johnson	0
+jurnee smollett-bell		0
+neil patrick harris		0
+carlos alazraqui		0
+dawn olivieri		0
+najarra townsend		0
+john turturro	John Hurt	0
+keri russell	Rosalind Russell	0
+liev schreiber		0
+andr?? benjamin		0
+rose byrne		0
+felicity jones	Felicity Jones	3
+nikolaj coster-waldau		0
+tiger hu chen		0
+eric bana		0
+tina fey		0
+irrfan khan		0
+sean schemmel		0
+ralph fiennes	Ralph Fiennes	3
+zac efron		0
+zoe kazan		0
+monica calhoun		0
+idris elba		0
+amy seimetz		0
+lindsay lohan		0
+ethan hawke	Ethan Hawke	1
+mariya smolnikova		0
+brendan fraser	Brenda Fricker	0
+fanny ardant		0
+emma roberts	Julia Roberts	0
+joe swanberg		0
+jesse eisenberg	Jesse Eisenberg	3
+carla juri		0
+roy abramsohn		0
+kristen wiig		0
+rooney mara	Rooney Mara	3
+naomi watts	Naomi Watts	3
+marlon wayans		0
+jemma dallender		0
+bill sage		0
+lawrence michael levine		0
+james mcavoy	James Cagney	0
+paul walker		0
+p??l sverre hagen		0
+kathryn hahn		0
+pierce brosnan		0
+robin weigert		0
+zhang wen		0
+sam rockwell		0
+??dgar ram??rez		0
+adam scott	Martha Scott	0
+ryan kwanten		0
+romain duris		0
+elijah wood		0
+paula patton		0
+toni collette	Toni Collette	1
+pat healy		0
+charlie rowe	Charlize Theron	0
+lika babluani		0
+cuba gooding jr.	Cuba Gooding Jr.	2
+derek hough		0
+tony chiu wai leung		0
+james corden	James Coburn	0
+amber heard	Sam Shepard	0
+dane dehaan		0
+b??r??nice bejo	B¨¦r¨¦nice Bejo	1
+josh holloway		0
+charlie bewley		0
+steve coogan		0
+aksel hennie		0
+lea michele		0
+javier c??mara		0
+tony jaa		0
+zo?? bell		0
+michael sheen	Michael Keaton	0
+ashton sanders		0
+olivier rabourdin		0
+clive owen	Clive Owen	1
+ed harris	Rex Harrison	0
+andy garcia	Andy Garc¨ªa	1
+james franco	James Franco	3
+dougray scott		0
+ranbir kapoor		0
+jan bijvoet		0
+chiwetel ejiofor	Chiwetel Ejiofor	3
+ashley bell		0
+fabrizio bentivoglio		0
+steve coogan		0
+adrien brody	Adrien Brody	4
+alice eve		0
+aj michalka		0
+james franco	James Franco	3
+lior ashkenazi		0
+romain duris		0
+annette bening	Annette Bening	3
+aamir khan		0
+anthony mackie	Anthony Franciosa	0
+dana ivgy		0
+emily browning		0
+paul rudd		0
+christopher walken	Christoph Waltz	0
+jim caviezel		0
+anthony chau-sang wong		0
+ken marino		0
+masaharu fukuyama		0
+mira barkhammar		0
+tyler perry		0
+skylan brooks		0
+rob corddry		0
+pierre deladonchamps		0
+cinda adams		0
+lindsay duncan		0
+stephen dorff	Stephen Rea	0
+anne heche	Anne Archer	0
+lembit ulfsak		0
+craig robinson		0
+ingvar eggert sigur??sson		0
+michael cera	Michael Keaton	0
+conner chapman		0
+kelly thornton	Billy Bob Thornton	0
+jonathan groff		0
+brontis jodorowsky		0
+shane mcrae		0
+nikki reed		0
+val lauren		0
+julian barratt		0
+gina piersanti		0
+klaus tange		0
+mao daichi		0
+scott elrod		0
+ajay devgn		0
+farhan akhtar		0
+kristyan ferrer		0
+jean-marc barr		0
+jun kunimura		0
+wu jiang		0
+jonas armstrong		0
+rosemarie dewitt		0
+paul giamatti	Paul Giamatti	1
+forest whitaker	Forest Whitaker	4
+michael madsen	Michael Keaton	0
+baihe bai		0
+nora tschirner	Norma Shearer	0
+carina lau		0
+d.b. sweeney		0
+billy unger		0
+ludivine sagnier		0
+ranveer singh		0
+deepika padukone		0
+jeanne tripplehorn		0
+gl??ria pires		0
+emory cohen		0
+paulina garc??a		0
+benicio del toro	Benicio del Toro	2
+graham skipper		0
+saif ali khan		0
+isaiah washington		0
+jena malone		0
+scott marlowe		0
+laura ramsey		0
+jesse williams	Michelle Williams	0
+elias koteas		0
+corbin allred		0
+maxine peake		0
+hrithik roshan		0
+deepika padukone		0
+louis garrel		0
+danai gurira		0
+thierry lhermitte		0
+logan bartholomew		0
+margherita buy		0
+jeremy ray valdez		0
+vincent lindon		0
+hans matheson		0
+jeff garlin		0
+catherine deneuve	Catherine Deneuve	3
+kriss schludermann		0
+hiam abbass		0
+juliette binoche	Juliette Binoche	3
+dhanush		0
+wallace shawn		0
+cody longo		0
+jan cornet		0
+khan chittenden		0
+daniel auteuil		0
+?€lex brendem??hl		0
+fran??ois arnaud		0
+ranbir kapoor		0
+catalina sandino moreno	Catalina Sandino Moreno	3
+l??szl?? gy??m??nt		0
+beno??t magimel		0
+cristiana capotondi		0
+deragh campbell		0
+john abraham		0
+gilles lellouche		0
+david strathairn	David Strathairn	3
+shirley knight	Shirley Knight	1
+devery jacobs		0
+amit sadh		0
+melanie lenz		0
+saif ali khan		0
+fabrice luchini		0
+joel torre	Joel Grey	0
+emmanuelle devos	Emmanuelle Riva	0
+joe estevez		0
+christian vazquez	Christian Bale	0
+enrique murciano		0
+kareena kapoor		0
+lisagay hamilton		0
+pulkit samrat		0
+manuela martelli		0
+mi yang		0
+lin-manuel miranda		0
+prabhudheva		0
+paresh rawal		0
+luminita gheorghiu		0
+riteish deshmukh		0
+khan baykal		0
+imran khan		0
+lisa owen	Clive Owen	0
+javier c??mara		0
+andrew pastides		0
+pier-gabriel lajoie		0
+jay chou		0
+said mrini		0
+rajesh tailang		0
+kelly greyson		0
+yann yann yeo		0
+shahid kapoor		0
+jeroen willems	Robin Williams	0
+isabelle huppert		0
+kambuzia partovi		0
+kristyan ferrer		0
+julius feldmeier		0
+nana patekar		0
+toni servillo		0
+kang-ho song		0
+dorian missick		0
+vincent macaigne		0
+emraan hashmi		0
+jacky bhagnani		0
+eric elmosnino		0
+mi yang		0
+andrew cheney		0
+wei tang		0
+jo mei		0
+busy philipps		0
+ziyi zhang		0
+mahnoor baloch		0
+aarya		0
+sunny deol		0
+lucas thompson	Emma Thompson	0
+josiane balasko		0
+binnu dhillon		0
+de'lon grant		0
+andrew rothney		0
+kevin charles		0
+gregg adams		0
